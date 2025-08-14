@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Asesor de Derechos Humanos con IA",
+  "description": "Una interfaz de chat inteligente que permite a los usuarios realizar investigaciones y consultas sobre Derechos Humanos. La IA, impulsada por Gemini, proporciona respuestas detalladas respaldadas por citas de documentos y jurisprudencia.",
+  "requestFramePermissions": []
+}
